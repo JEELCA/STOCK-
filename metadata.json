@@ -1,0 +1,5 @@
+{
+  "name": "Ultimate Stock AI Agent",
+  "description": "A comprehensive, commercial-grade AI-powered stock analysis platform that analyzes stocks using fundamental analysis, technical analysis, P-Tool scoring, forensic checks, sentiment analysis, peer comparison, and macro analysis. The system uses Google Gemini AI as the brain to provide investment recommendations.",
+  "requestFramePermissions": []
+}
